@@ -1,1 +1,1 @@
-
+A game of snake with a mission based gameplay. fully implemented and functional
